@@ -30,6 +30,9 @@ I enjoy all kind of Games, Movies, TvShows(Silicon Valley is my favorite show) a
 - 👨🏽‍🌱 I’m currently Learning all sort of Computer Science Algorithms so i can be a better Computer Scientist; 
 - 💬 Ask me about Python Development, Desktop Applications, C#(Unity Engine), Bayesian Games, Extensive Form Games, Machine Learning and Deep Learning;
 - ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for future.
+- 📝⌨ I have 90+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 96WPM
+
+![WPM96](https://user-images.githubusercontent.com/45942833/121991171-66f3e780-cdb4-11eb-86e8-271844282da3.png)
 
 **Languages and Tools:**  
 
