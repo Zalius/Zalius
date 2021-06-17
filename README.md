@@ -44,12 +44,17 @@ I enjoy all kind of Games, Movies, TvShows(Silicon Valley is my favorite show) a
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/4a90e2/python.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/13/C-Sharp.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"></code
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minitab_Logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/PowerPoint_hi-res_icon_%282019%29.svg"></code>
+
 
