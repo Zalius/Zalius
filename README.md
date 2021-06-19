@@ -33,7 +33,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows(Silicon Valley is 
 - 📝⌨ I have 90+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 97WPM;
 
 
-<img  alt="png" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="text-align: center;"/>
+<img  alt="png" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="text-align: center;"/>
 
 **Languages and Tools:**  
 
