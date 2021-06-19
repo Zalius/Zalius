@@ -1,5 +1,13 @@
 ### Hey 👋🏽, I'm [Dariush!](https://www.linkedin.com/in/dariush-kazemi/)
 
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+</style>
+
+
 <a href="https://twitter.com/Dariush_Zalius">
   <img align="left" alt="Dariush Zalius | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> 
 </a>
@@ -33,8 +41,9 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows(Silicon Valley is 
 - 📝⌨ I have 90+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 97WPM;
 
 
-![WPM97](https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png)
-![WPM97](https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png)
+<div>
+    <img class="marginauto" src="https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png" alt="centered image" />
+</div>
 
 **Languages and Tools:**  
 
