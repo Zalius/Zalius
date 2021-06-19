@@ -36,7 +36,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows(Silicon Valley is 
 
 <br />
 <br />
-<img align="middle" src="https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png" alt="myimage" />
+<img align="middle" src="https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png" alt="png" />
 
 
 **Languages and Tools:**  
