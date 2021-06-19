@@ -33,7 +33,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows(Silicon Valley is 
 - ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for future;
 - 📝⌨ I have 90+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 97WPM;
 
-
+<!-- ![WPM97](https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png) -->
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png">
