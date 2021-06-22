@@ -22,7 +22,7 @@ I'm looking forward to study on Computer Science field.
 I LOVE cool Algorithms, Coding and Playing Games(I'm a semi-professional Dota 2 player). I'm really working on my Algorithmic Game Theory and Machine Learning skills so maybe one day i 
 can become a Game Theorist (if that's a thing :D )
  I'm mainly a Python programmer but i can also code in Java, MATLAB/Octave(Machine Learning), C#(Unity Engine), C/C++ and JavaScript.
-I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows(Silicon Valley is my favorite show) and Programming again.
+I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming again.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
