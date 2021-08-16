@@ -51,7 +51,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming ag
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/13/C-Sharp.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
