@@ -65,6 +65,12 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming ag
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/PowerPoint_hi-res_icon_%282019%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/1280px-LaTeX_project_logo_bird.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1280px-WordPress_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1010px-XAMPP_logo.svg.png"></code>
+<code><img height="20" src="https://en.wikipedia.org/wiki/IntelliJ_IDEA#/media/File:IntelliJ_IDEA_Icon.svg"></code>
+
+
+
 
 
 
