@@ -44,6 +44,8 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming ag
 
 <code><img height="20" src="https://img.icons8.com/color/48/4a90e2/python.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1964px-Python_and_Qt.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -61,7 +63,6 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming ag
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/PowerPoint_hi-res_icon_%282019%29.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1964px-Python_and_Qt.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png"></code>
+
 
 
