@@ -61,5 +61,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming ag
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/PowerPoint_hi-res_icon_%282019%29.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1964px-Python_and_Qt.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png"></code>
 
 
