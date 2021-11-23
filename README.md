@@ -17,9 +17,9 @@
 <br />
 <br />
 
-Hi, I'm Dariush "**Zalius**" Kazemi, I recently finished my Bachelor of Mathematics and Applications at [@Guilan University](https://guilan.ac.ir/en/) and 
-I'm looking forward to study in Computer Science field.
-I LOVE working on Algorithms to solve a new problem,, Coding and Playing Games(I'm a semi-professional Dota 2 player). The ever-evolving field of Computer Science intrigued me so much and I'm mainly focusing to improve my Algorithmic Game Theory and Machine Learning skills.
+Hi, I'm Dariush "**Zalius**" Kazemi, I recently finished my Bachelor of Mathematics and Applications at [@Guilan University](https://guilan.ac.ir/en/) and now
+I'm studying Computer Science at [@Amirkabir University of Technology](https://aut.ac.ir/en).
+I LOVE working on Algorithms to solve a new problem, Coding and Playing Games(I'm a semi-professional Dota 2 player). The ever-evolving field of Computer Science intrigued me so much and I'm mainly focusing to improve my Algorithmic Game Theory and Machine Learning skills.
  I'm mainly a Python programmer but i can also code in Java, MATLAB/Octave(Machine Learning), C#(Unity Engine), C/C++ and JavaScript.
 I enjoy all kind of Games, Mystery and Sci-Fi Movies, TvShows and Programming again.
 
