@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/dariush.zalius/">
   <img align="left" alt="Dariush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://steamcommunity.com/id/2581077743/">
+<a href="https://steamcommunity.com/id/zalius1729/">
   <img align="left" alt="Dariush's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
 </a>
 
