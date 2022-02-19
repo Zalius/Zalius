@@ -28,7 +28,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies and Programming again.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍🌱 I’m currently Learning all sort of Computer Science Algorithms so i can be a better Computer Scientist; 
-- 💬 Ask me about Python Development, Desktop Applications, C#(Unity Engine), Bayesian Games, Extensive Form Games, Machine Learning and Deep Learning;
+- 💬 Ask me about Python Development, Desktop Applications, C#(Unity Engine), Extensive Form Games, Machine Learning and Graph Learning;
 - ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for the future;
 - 📝⌨ I have 90+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 102WPM;
 
