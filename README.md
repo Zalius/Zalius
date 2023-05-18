@@ -18,7 +18,7 @@
 <br />
 
 Hi, I'm Dariush "**Zalius**" Kazemi, I recently finished my Bachelor of Mathematics and Applications at [@Guilan University](https://guilan.ac.ir/en/) and now
-I'm studying Computer Science at [@Amirkabir University of Technology](https://aut.ac.ir/en).
+I'm studying Computer Science at [@Amirkabir University of Technology](https://aut.ac.ir/en). My Thesis is about finding Drug-Drug Interaction using Graph Representation Learning models.
 I LOVE working on Algorithms to solve new problems, Coding and Playing Games(I'm a semi-professional Dota 2 player). The ever-evolving field of Computer Science intrigued me so much that I'm mainly focusing to improve my Algorithms and Data Structure and Graph Learning skills.
  I'm mainly a Python programmer but i can also code in Java, MATLAB/Octave(Machine Learning), C#(Unity Engine), C/C++ and JavaScript.
 I enjoy all kind of Games, Mystery and Sci-Fi Movies and Programming again.
@@ -28,7 +28,7 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies and Programming again.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍🌱 I’m currently Learning all sort of Computer Science Algorithms so i can be a better Computer Scientist; 
-- 💬 Ask me about Python Development, Desktop Applications, C#(Unity Engine), Extensive Form Games, Machine Learning and Graph Learning;
+- 💬 Ask me about Machine Learning with Graphs and GNN models, Python Development, C#(Unity Engine), Extensive Form Games;
 - ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for the future;
 - 📝⌨ I have 100+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 105WPM;
 
