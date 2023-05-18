@@ -30,13 +30,14 @@ I enjoy all kind of Games, Mystery and Sci-Fi Movies and Programming again.
 - 👨🏽‍🌱 I’m currently Learning all sort of Computer Science Algorithms so i can be a better Computer Scientist; 
 - 💬 Ask me about Python Development, Desktop Applications, C#(Unity Engine), Extensive Form Games, Machine Learning and Graph Learning;
 - ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for the future;
-- 📝⌨ I have 90+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 102WPM;
+- 📝⌨ I have 100+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 105WPM;
+
 
 <!-- ![WPM97](https://user-images.githubusercontent.com/45942833/122330390-596f6680-cf48-11eb-91b8-b6baff4b1f36.png) -->
 
 <br />
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/45942833/123958199-ff4bb800-d9c1-11eb-8c1f-bc8dc7ddb440.png">
+  <img  src="https://github.com/Zalius/Zalius/assets/45942833/0aa00535-3bc2-4f73-9b40-ac3db502ebff">
 </p>
 
 **Languages and Tools:**  
