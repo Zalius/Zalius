@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Dariush!](https://www.linkedin.com/in/dariush-kazemi/)
+## Hey 👋🏽, I'm [Dariush!](https://www.linkedin.com/in/dariush-kazemi/)
 
 
 <a href="https://twitter.com/Dariush_Zalius">
