@@ -16,18 +16,20 @@
 
 <br />
 <br />
+Hello, I'm Dariush "Zalius" Kazemi. I hold a Master's degree in Computer Science from [@Amirkabir University of Technology](https://aut.ac.ir/en), and my academic journey has been marked by a relentless pursuit of innovative research. I previously completed my Bachelor's degree in Mathematics and Applications at [@Guilan University](https://guilan.ac.ir/en/). My Master's thesis focused on addressing complex link prediction challenges, culminating in the development of a groundbreaking method known as "Edge Property Prediction to Node Property Prediction" (E2N). Leveraging Graph Neural Networks (GNNs), this approach achieved remarkable results, outperforming state-of-the-art algorithms on the OGB leaderboard. I am currently actively preparing a research paper for submission to share these findings with the academic community. 
+My interests span the realms of Algorithms, Coding, and Gaming. As a semi-professional Dota 2 player, I appreciate the strategic challenges of the game. The ever-evolving field of Computer Science has intrigued me, leading me to sharpen my skills in Algorithms, Data Structures, and Graph Learning.
+While I'm primarily a Python programmer, I also have experience in Java, MATLAB/Octave (Machine Learning), C# (Unity Engine), C/C++, and JavaScript. I enjoy tackling new problems and staying at the forefront of technology.
+Feel free to connect, collaborate, and venture into the dynamic world of technology alongside me!
 
-Hi, I'm Dariush "**Zalius**" Kazemi, I recently finished my Bachelor of Mathematics and Applications at [@Guilan University](https://guilan.ac.ir/en/) and now
-I'm studying Computer Science at [@Amirkabir University of Technology](https://aut.ac.ir/en). My Thesis is about finding Drug-Drug Interaction using Graph Representation Learning models.
-I LOVE working on Algorithms to solve new problems, Coding and Playing Games(I'm a semi-professional Dota 2 player). The ever-evolving field of Computer Science intrigued me so much that I'm mainly focusing to improve my Algorithms and Data Structure and Graph Learning skills.
- I'm mainly a Python programmer but i can also code in Java, MATLAB/Octave(Machine Learning), C#(Unity Engine), C/C++ and JavaScript.
-I enjoy all kind of Games, Mystery and Sci-Fi Movies and Programming again.
+
+
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍🌱 I’m currently Learning all sort of Computer Science Algorithms so i can be a better Computer Scientist; 
+- 👨🏽‍🌱 I’m currently trying to get better at GNN architecture models; 
 - 💬 Ask me about Machine Learning with Graphs and GNN models, Python Development, C#(Unity Engine), Extensive Form Games;
 - ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for the future;
 - 📝⌨ I have 100+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 105WPM;
