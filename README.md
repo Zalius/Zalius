@@ -34,7 +34,7 @@ Feel free to connect, collaborate, and venture into the dynamic world of technol
 
 - 👨🏽‍🌱 I’m currently trying to get better at GNN architecture models; 
 - 💬 Ask me about Machine Learning with Graphs and GNN models, Python Development, C#(Unity Engine), Extensive Form Games;
-- ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for the future;
+<!-- !- ⚡️ Fun-Fact: Recently I uploaded my first ever tutorial on my youtube channel ([@Zalius](https://www.youtube.com/channel/UCb5_YFrbtDoHUZDyVsBK-mA)). It's about linkedLists (Data Structure) and I know it sucks, but it can be a good start for the future; -->
 - 📝⌨ I have 100+ WPM typing speed according to [@10fastfingers](https://10fastfingers.com/typing-test/english) and Currently my record is 105WPM;
 
 
