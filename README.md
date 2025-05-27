@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there! 👋 I'm Dariush Kazemi
+# Hi there! 👋 I'm Dariush
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+ML+Engineer;Ph.D.+Student+in+Computer+Science;Graph+Neural+Networks+Enthusiast;Python+%26+AI+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
 
