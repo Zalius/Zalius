@@ -213,7 +213,7 @@ I'm always excited to collaborate on innovative projects, especially those invol
 [![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 
 ### 💡 Fun Fact
-*When I'm not engineering data pipelines or training neural networks, you'll find me exploring Tehran's tech scene or practicing my 105+ WPM typing skills! ⚡*
+*When I'm not building data pipelines or training neural networks, you can find me playing Dota 2⚡*
 
 </div>
 
