@@ -224,7 +224,7 @@ I'm always excited to collaborate on innovative projects, especially those invol
 ### 🎵 Coding Playlist
 *Currently coding to:* 
 
-[![Spotify](https://img.shields.io/badge/Spotify-Electronic%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-Electronic%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4UBJGMA6f0f6Zj2TfR2kYc?si=uIbFYyraQaKh9k3ziecY7Q)
 
 
 </div>
