@@ -84,7 +84,7 @@ me.say_hi()
 <div align="center">
 
 ### 🔥 Typing Speed Champion 
-<img src="https://github.com/Zalius/Zalius/assets/45942833/0aa00535-3bc2-4f73-9b40-ac3db502ebff" alt="105+ WPM Typing Speed" width="400"/>
+<img src="https://github.com/Zalius/Zalius/assets/45942833/0aa00535-3bc2-4f73-9b40-ac3db502ebff" alt="105+ WPM Typing Speed" width="300"/>
 
 **105+ WPM** - Because fast coding requires fast typing! ⚡
 
