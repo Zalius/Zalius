@@ -226,8 +226,5 @@ I'm always excited to collaborate on innovative projects, especially those invol
 
 [![Spotify](https://img.shields.io/badge/Spotify-Electronic%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
-**Thanks for visiting! Leave a ⭐ if you found something interesting!**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd be happy to meet you more!</b> 😊</em>
 
 </div>
