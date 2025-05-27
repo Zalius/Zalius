@@ -1,33 +1,32 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Dariush
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+ML+Engineer;Ph.D.+Student+in+Computer+Science;Graph+Neural+Networks+Enthusiast;Python+%26+AI+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+# 🚀 Hey there! I'm Dariush Kazemi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Data+Engineer+%26+AI+Researcher;Real-Time+Systems+Expert;Graph+Neural+Networks+Enthusiast;Building+the+Future+with+Data" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Zalius&color=0e75b6&style=for-the-badge)](https://github.com/Zalius)
+[![GitHub followers](https://img.shields.io/github/followers/Zalius?logo=GitHub&style=for-the-badge)](https://github.com/Zalius)
+[![GitHub stars](https://img.shields.io/github/stars/Zalius?logo=github&style=for-the-badge)](https://github.com/Zalius)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🎯 Quick Bio
 
 ```python
 class DariushKazemi:
     def __init__(self):
         self.name = "Dariush Kazemi"
+        self.role = "Data Engineer & AI Researcher"
         self.location = "Tehran, Iran 🇮🇷"
-        self.current_role = ["Data Scientist", "Ph.D. Student", "ML Researcher"]
-        self.education = {
-            "current": "Ph.D. Computer Science @ University of Tehran",
-            "completed": "M.Sc. Computer Science @ Amirkabir University"
-        }
-        self.interests = [
-            "Machine Learning 🤖", 
-            "Graph Neural Networks 🕸️",
-            "Genetic Data Analysis 🧬",
-            "Geospatial Analytics 🗺️"
+        self.education = "Ph.D. Student @ University of Tehran"
+        self.current_work = [
+            "Real-time data systems @ OnTime",
+            "Genetic analysis @ Colife Medical Labs",
+            "GeoAI research @ University of Tehran"
         ]
-        self.fun_fact = "I type at 105+ WPM! ⚡"
-    
+        
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
@@ -39,143 +38,24 @@ me.say_hi()
 
 <div align="center">
 
-## 🚀 What I'm Up To
-
-🔬 **Currently Working On:** Geoinformatics research with PostgreSQL + PostGIS databases  
-🧬 **Research Focus:** Machine Learning with Graphs and Genetic Data Analysis  
-🎯 **Learning:** Advanced LLM Fine-tuning and Federated Learning  
-💡 **Open to:** Collaboration on ML projects and research opportunities  
-
-</div>
-
----
-
-## 🛠️ My Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zalius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalius&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zalius&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 My Superpowers
-
-<div align="center">
-
-### ⚡ Lightning Fast Typing
-<img src="https://github.com/Zalius/Zalius/assets/45942833/0aa00535-3bc2-4f73-9b40-ac3db502ebff" alt="105+ WPM Typing Speed" width="600"/>
-
-**105+ WPM** - Because code doesn't write itself! 🚀
-
-</div>
-
-<div align="center">
-
-### 🎯 Problem Solving Skills
-```
-[████████████████████████████████] 100% - Debugging & Algorithm Design
-[██████████████████████████████  ] 95%  - System Architecture  
-[████████████████████████████    ] 90%  - Data Analysis & ML
-[██████████████████████████      ] 85%  - Research & Innovation
-```
-
-</div>
-
----
-
-## 🌟 Highlighted Projects
-
-<div align="center">
+## 💼 What I Do
 
 <table>
 <tr>
-<td width="50%">
-
-### 💊 Drug-Drug Interaction System
-![AI](https://img.shields.io/badge/AI-Powered-brightgreen)
-![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20DB-blue)
-
-🔬 **Advanced ML system** using Graph Neural Networks  
-🤖 **Fine-tuned Llama3.2** for medical recommendations  
-⚛️ **Modern React interface** with real-time analysis  
-
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" height="60"/>
+<br><strong>Data Engineering</strong>
+<br><sub>Real-time pipelines with Kafka & distributed systems</sub>
 </td>
-<td width="50%">
-
-### 🧬 Genetic Database Platform
-![Biotech](https://img.shields.io/badge/Biotech-Medical-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-
-🏥 **Personalized medicine** expert advisor  
-📊 **Whole-exome genetic data** processing  
-🔍 **Advanced analytics** for disease research  
-
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
+<br><strong>AI & ML Research</strong>
+<br><sub>Graph Neural Networks & personalized recommendations</sub>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗺️ Geospatial Analytics
-![GIS](https://img.shields.io/badge/GIS-Geoinformatics-green)
-![PostGIS](https://img.shields.io/badge/PostGIS-Spatial-orange)
-
-🌍 **Hotspot analysis** with spatial databases  
-🤖 **LLM integration** for pattern recognition  
-📈 **Real-time geospatial** data processing  
-
-</td>
-<td width="50%">
-
-### 🎮 Federated Learning Research
-![Research](https://img.shields.io/badge/Research-Academic-purple)
-![DRL](https://img.shields.io/badge/DRL-Reinforcement-yellow)
-
-📡 **Spectrum sharing** optimization  
-🤝 **Multi-agent simulations** & federated learning  
-📊 **Performance analysis** of FDQN vs FDPG  
-
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="60" height="60"/>
+<br><strong>Graph Databases</strong>
+<br><sub>Neo4j architectures for complex relationships</sub>
 </td>
 </tr>
 </table>
@@ -184,79 +64,156 @@ me.say_hi()
 
 ---
 
-## 🎓 Academic Journey
+## 🏆 Recent Achievements
 
 <div align="center">
 
-```mermaid
-timeline
-    title My Academic & Professional Timeline
-    
-    2015-2019 : B.Sc. Mathematics & Applications
-              : University of Guilan
-              : Ranked 3rd in class 🥉
-    
-    2021-2023 : M.Sc. Computer Science
-              : Amirkabir University of Technology  
-              : CGPA: 17.92/20 ⭐
-    
-    2024-Present : Ph.D. Computer Science
-                 : University of Tehran
-                 : Research in ML & Graphs 🔬
-    
-    2024-Present : Data Scientist
-                 : Colife Medical Labs
-                 : Genetic Data Analysis 🧬
-```
+### 🎉 INOTEX 2025 Success Story
+**Deployed recommendation system serving 3500+ active users at Iran's largest tech exhibition!**
+
+<img src="https://img.shields.io/badge/Users-3500+-brightgreen?style=for-the-badge&logo=users" />
+<img src="https://img.shields.io/badge/Event-INOTEX%202025-blue?style=for-the-badge&logo=calendar" />
+<img src="https://img.shields.io/badge/Tech-GNN%20Recommender-orange?style=for-the-badge&logo=brain" />
 
 </div>
 
 ---
 
-## 🏅 Achievements & Fun Facts
+## ⚡ Fun Fact - Lightning Fast Fingers!
 
 <div align="center">
 
-🎓 **National Full Scholarships** for both M.Sc. & B.Sc.  
-🥇 **Gold Medal** in International Scientific League of PAYA  
-🌟 **NODET Graduate** (National Organization for Development of Exceptional Talents)  
-📜 **CCNA & CCENT Certified** Network Professional  
-⚡ **105+ WPM** Typing Speed Champion  
-🎯 **Teaching Assistant** for 3+ years in ML & Algorithms  
+### 🔥 Typing Speed Champion 
+<img src="https://github.com/Zalius/Zalius/assets/45942833/0aa00535-3bc2-4f73-9b40-ac3db502ebff" alt="105+ WPM Typing Speed" width="400"/>
+
+**105+ WPM** - Because fast coding requires fast typing! ⚡
 
 </div>
 
 ---
 
-## 🌈 Fun Zone
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🎵 Coding Playlist Mood
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&unique=true)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔥 Current Vibe
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="200"/>
+### Data Engineering & Big Data
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Status:** *Debugging code while sipping coffee ☕ and listening to lo-fi beats 🎶*
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariushkazemi77@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zalius)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dariush-kazemi)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zalius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalius&layout=compact&langs_count=8&theme=tokyonight"/>
 
-### 💬 Open to:
-- 🤝 **Collaboration** on ML/AI projects
-- 📚 **Research partnerships** in Graph Neural Networks  
-- 💼 **Freelance opportunities** in Data Science
-- 🎓 **Academic discussions** and knowledge sharing
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zalius&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Current Projects & Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 What I'm Working On
+- 🚀 **Real-time Event Recommendations** with GNNs
+- 🧬 **Genetic Data Analysis** for personalized medicine  
+- 🗺️ **GeoAI Research** for spatial pattern recognition
+- 💊 **Drug Interaction Systems** with graph databases
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+- Advanced Graph Neural Network architectures
+- Large Language Model fine-tuning
+- Real-time stream processing at scale
+- Distributed system design patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 Contribution Graph
+
+<div align="center">
+
+[![Dariush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zalius&theme=tokyo-night)](https://github.com/Zalius)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zalius&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Zalius)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects, especially those involving:
+- 🔄 **Real-time data systems**
+- 🧠 **Graph Neural Networks** 
+- 🧬 **Biomedical AI**
+- 🌍 **Geospatial analysis**
+
+[![Email](https://img.shields.io/badge/Email-dariushkazemi77%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariushkazemi77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dariush-kazemi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+
+### 💡 Fun Fact
+*When I'm not engineering data pipelines or training neural networks, you'll find me exploring Tehran's tech scene or practicing my 105+ WPM typing skills! ⚡*
 
 </div>
 
@@ -264,17 +221,13 @@ timeline
 
 <div align="center">
 
-### 🎯 Life Philosophy
+### 🎵 Coding Playlist
+*Currently coding to:* 
 
-*"Code is poetry written in logic, data tells stories waiting to be discovered, and every algorithm is a step towards solving tomorrow's challenges."*
+[![Spotify](https://img.shields.io/badge/Spotify-Electronic%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
----
+**Thanks for visiting! Leave a ⭐ if you found something interesting!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zalius&color=brightgreen)
-[![Followers](https://img.shields.io/github/followers/Zalius?label=Follow&style=social)](https://github.com/Zalius)
-
-**Thanks for stopping by! Let's build the future together! 🚀✨**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> And remember, every expert was once a beginner!</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd be happy to meet you more!</b> 😊</em>
 
 </div>
